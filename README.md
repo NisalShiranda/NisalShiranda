@@ -5,13 +5,7 @@
 
 ![1719351508269](https://github.com/user-attachments/assets/ed02d38e-cf87-4c43-9ed4-3115a5f50b04)
 
-- 🌱 I’m currently learning **JavaScript, UI/UX designing, Flutter, App Development**
 
-- 💬 Ask me about **HTML,CSS,JS**
-
-- 📫 How to reach me **nisalshiranda001@gmail.com**
-
-- ⚡ Fun fact **I think, I am unstoppable.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
