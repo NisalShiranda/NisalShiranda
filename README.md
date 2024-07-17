@@ -1,7 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Nisal Shiranda</h1>
-<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
+<h1 align="center">Nisal Shiranda</h1>
 
+
+
+![1719351508269](https://github.com/user-attachments/assets/ed02d38e-cf87-4c43-9ed4-3115a5f50b04)
 
 - 🌱 I’m currently learning **JavaScript, UI/UX designing, Flutter, App Development**
 
